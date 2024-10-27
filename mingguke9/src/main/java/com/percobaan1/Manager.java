@@ -36,8 +36,8 @@ public class Manager extends Karyawan{
         System.out.println("NIP : " + getNip());
         System.out.println("Nama : " + getNama());
         System.out.println("Golongan : " + getGolongan());
-        System.out.printf("Tunjangan : " + getTunjangan());
-        System.out.printf("Gaji : " + getGaji());
+        System.out.println("Tunjangan : " + getTunjangan());
+        System.out.println("Gaji : " + getGaji());
         System.out.println("Bagian : " + getBagian());
         this.viewStaff();
     }
