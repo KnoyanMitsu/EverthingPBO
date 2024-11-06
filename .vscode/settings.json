@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "minggu10/src/main/java/com/minggu10",
         "Minggu1PBOPratikum/src",
-        "minggu10/src/main/java/com/minggu10"
+        "kuis2_dynamic_poli/src/main/java/com/kuis2"
     ]
 }
